@@ -304,3 +304,25 @@ require_type_annotated_api_methods = True
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
 
+fixtures = [
+    "Account",
+    "Cost Center",
+    "Warehouse",
+    "Item Group",
+    "UOM",
+    "Mode of Payment",
+    "Payment Terms Template",
+    "Workflow",
+    "Workflow State",
+    "Custom Field",
+    "Property Setter",
+    "Print Format",
+    "Client Script",
+    "Server Script",
+    "Role",
+    "Role Profile",
+    "Report",
+    "Workspace",
+    "Dashboard",
+    "Number Card",
+]

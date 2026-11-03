@@ -1,0 +1,92 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-09-03 16:22:03.829224",
+  "name": "Inventory",
+  "role_profile": "Inventory",
+  "roles": [
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Stock Manager"
+   },
+   {
+    "role": "Item Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-09-03 16:22:03.836522",
+  "name": "Manufacturing",
+  "role_profile": "Manufacturing",
+  "roles": [
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Manufacturing User"
+   },
+   {
+    "role": "Manufacturing Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-09-03 16:22:03.846133",
+  "name": "Accounts",
+  "role_profile": "Accounts",
+  "roles": [
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Accounts Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-09-03 16:22:03.851605",
+  "name": "Sales",
+  "role_profile": "Sales",
+  "roles": [
+   {
+    "role": "Sales User"
+   },
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Sales Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-09-03 16:22:03.857063",
+  "name": "Purchase",
+  "role_profile": "Purchase",
+  "roles": [
+   {
+    "role": "Item Manager"
+   },
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Purchase User"
+   },
+   {
+    "role": "Purchase Manager"
+   }
+  ]
+ }
+]

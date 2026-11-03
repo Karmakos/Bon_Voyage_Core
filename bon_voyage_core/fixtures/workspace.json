@@ -1,0 +1,2584 @@
+[
+ {
+  "charts": [
+   {
+    "chart_name": "Profit and Loss",
+    "label": "Profit and Loss"
+   }
+  ],
+  "content": "[{\"id\": \"797d6b3896\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Profit and Loss\", \"col\": 12}}, {\"id\": \"7dfaeec97e\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Annual Sales\", \"col\": 4}}, {\"id\": \"b76ffb894b\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Annual Purchase\", \"col\": 4}}, {\"id\": \"ba3943fb2d\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Stock Value\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "house",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Home",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Setup",
+  "module_onboarding": null,
+  "name": "Home",
+  "number_cards": [
+   {
+    "label": "Annual Sales",
+    "number_card_name": "Annual Sales"
+   },
+   {
+    "label": "Annual Purchase",
+    "number_card_name": "Annual Purchase"
+   },
+   {
+    "label": "Total Stock Value",
+    "number_card_name": "Total Stock Value"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [
+   {
+    "role": "Desk User"
+   }
+  ],
+  "sequence_id": 1.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Home",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Incoming Leads",
+    "label": "Incoming Leads"
+   }
+  ],
+  "content": "[{\"id\": \"5df9733229\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Incoming Leads\", \"col\": 12}}, {\"id\": \"1f47c95d4e\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Open Opportunity\", \"col\": 4}}, {\"id\": \"9a0668d938\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"New Lead (Last 1 Month)\", \"col\": 4}}, {\"id\": \"096cbb7b12\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Won Opportunity (Last 1 Month)\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "handshake",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "CRM",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "CRM",
+  "module_onboarding": null,
+  "name": "CRM",
+  "number_cards": [
+   {
+    "label": "Open Opportunity",
+    "number_card_name": "Open Opportunity"
+   },
+   {
+    "label": "New Lead (Last 1 Month)",
+    "number_card_name": "New Lead (Last 1 Month)"
+   },
+   {
+    "label": "Won Opportunity (Last 1 Month)",
+    "number_card_name": "Won Opportunity (Last 1 Month)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 17.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "CRM",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Sales Order Analysis",
+    "label": "Sales Order Analysis"
+   }
+  ],
+  "content": "[{\"id\": \"f4c73734c4\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Sales Order Analysis\", \"col\": 12}}, {\"id\": \"adf8fed2ff\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Sales Orders to Deliver\", \"col\": 4}}, {\"id\": \"975633cef2\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Sales Orders to Bill\", \"col\": 4}}, {\"id\": \"2900555572\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Annual Sales\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "store",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Selling",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Selling",
+  "module_onboarding": "Selling Onboarding",
+  "name": "Selling",
+  "number_cards": [
+   {
+    "label": "Sales Orders to Deliver",
+    "number_card_name": "Sales Orders to Deliver"
+   },
+   {
+    "label": "Sales Orders to Bill",
+    "number_card_name": "Sales Orders to Bill"
+   },
+   {
+    "label": "Annual Sales",
+    "number_card_name": "Annual Sales"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 6.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Selling",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Purchase Order Analysis",
+    "label": "Purchase Order Analysis"
+   }
+  ],
+  "content": "[{\"id\": \"983cd8ea63\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Purchase Order Analysis\", \"col\": 12}}, {\"id\": \"d88a483751\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Purchase Orders to Receive\", \"col\": 4}}, {\"id\": \"22a7c36674\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Purchase Orders to Bill\", \"col\": 4}}, {\"id\": \"5fe5b5c369\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Annual Purchase\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "shopping-cart",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Buying",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Buying",
+  "module_onboarding": "Buying Onboarding",
+  "name": "Buying",
+  "number_cards": [
+   {
+    "label": "Purchase Orders to Receive",
+    "number_card_name": "Purchase Orders to Receive"
+   },
+   {
+    "label": "Purchase Orders to Bill",
+    "number_card_name": "Purchase Orders to Bill"
+   },
+   {
+    "label": "Annual Purchase",
+    "number_card_name": "Annual Purchase"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 5.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Buying",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Login Activity",
+    "label": "Login Activity"
+   }
+  ],
+  "content": "[{\"id\": \"T_8h_1kB6j\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Login Activity\", \"col\": 12}}, {\"id\": \"Y9G8gIH9lP\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"System Users\", \"col\": 4}}, {\"id\": \"78JTmWaYfY\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Website Users\", \"col\": 4}}, {\"id\": \"vAh1zw5jLk\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Failed Login Attempts\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "users",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Users",
+  "link_to": null,
+  "link_type": null,
+  "links": [
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Activity Log",
+    "link_count": 0,
+    "link_to": "Activity Log",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Access Log",
+    "link_count": 0,
+    "link_to": "Access Log",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Role Permissions Manager",
+    "link_count": 0,
+    "link_to": "permission-manager",
+    "link_type": "Page",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "User Permissions",
+    "link_count": 0,
+    "link_to": "User Permission",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Role Permission for Page and Report",
+    "link_count": 0,
+    "link_to": "Role Permission for Page and Report",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "User",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 1,
+    "label": "Permitted Documents For User",
+    "link_count": 0,
+    "link_to": "Permitted Documents For User",
+    "link_type": "Report",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "DocShare",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Document Share Report",
+    "link_count": 0,
+    "link_to": "Document Share Report",
+    "link_type": "Report",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": "DocShare",
+    "type": "Link"
+   }
+  ],
+  "modified": "2026-08-12 12:00:00",
+  "module": "Users",
+  "module_onboarding": null,
+  "name": "Users",
+  "number_cards": [
+   {
+    "label": "Website Users",
+    "number_card_name": "Total Website Users"
+   },
+   {
+    "label": "System Users",
+    "number_card_name": "Users"
+   },
+   {
+    "label": "Failed Login Attempts",
+    "number_card_name": "Failed Login Attempts"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [
+   {
+    "role": "System Manager"
+   }
+  ],
+  "sequence_id": 13.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Users",
+  "type": "Workspace"
+ },
+ {
+  "charts": [],
+  "content": "[{\"id\": \"3iua9gS06d\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Google Settings\", \"col\": 3}}, {\"id\": \"G4mkFTN5SN\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Webhook\", \"col\": 3}}, {\"id\": \"fPZBlLf1Ux\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"ij1pcK8jst\", \"type\": \"card\", \"data\": {\"card_name\": \"Google Services\", \"col\": 4}}, {\"id\": \"aTlMujEHpN\", \"type\": \"card\", \"data\": {\"card_name\": \"Authentication\", \"col\": 4}}, {\"id\": \"gY5NXKtXss\", \"type\": \"card\", \"data\": {\"card_name\": \"Settings\", \"col\": 4}}, {\"id\": \"n_CI3GGqW-\", \"type\": \"card\", \"data\": {\"card_name\": \"Push Notifications\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "cable",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Integrations",
+  "link_to": null,
+  "link_type": null,
+  "links": [
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Google Services",
+    "link_count": 0,
+    "link_to": null,
+    "link_type": null,
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Google Settings",
+    "link_count": 0,
+    "link_to": "Google Settings",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Google Contacts",
+    "link_count": 0,
+    "link_to": "Google Contacts",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Google Calendar",
+    "link_count": 0,
+    "link_to": "Google Calendar",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Settings",
+    "link_count": 0,
+    "link_to": null,
+    "link_type": null,
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Webhook",
+    "link_count": 0,
+    "link_to": "Webhook",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Slack Webhook URL",
+    "link_count": 0,
+    "link_to": "Slack Webhook URL",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "SMS Settings",
+    "link_count": 0,
+    "link_to": "SMS Settings",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Authentication",
+    "link_count": 4,
+    "link_to": null,
+    "link_type": null,
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Social Login Key",
+    "link_count": 0,
+    "link_to": "Social Login Key",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "LDAP Settings",
+    "link_count": 0,
+    "link_to": "LDAP Settings",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "OAuth Client",
+    "link_count": 0,
+    "link_to": "OAuth Client",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "OAuth Provider Settings",
+    "link_count": 0,
+    "link_to": "OAuth Provider Settings",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Push Notifications",
+    "link_count": 1,
+    "link_to": null,
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Push Notification Settings",
+    "link_count": 0,
+    "link_to": "Push Notification Settings",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   }
+  ],
+  "modified": "2026-08-05 12:00:00",
+  "module": "Integrations",
+  "module_onboarding": null,
+  "name": "Integrations",
+  "number_cards": [],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 20.0,
+  "shortcuts": [
+   {
+    "color": "Grey",
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Google Settings",
+    "link_to": "Google Settings",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Webhook",
+    "link_to": "Webhook",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": "[]",
+    "type": "DocType",
+    "url": null
+   }
+  ],
+  "standard": 1,
+  "title": "Integrations",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Asset Value Analytics",
+    "label": "Asset Value Analytics"
+   }
+  ],
+  "content": "[{\"id\": \"91d49bd2aa\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Asset Value Analytics\", \"col\": 12}}, {\"id\": \"6e2f5c71fd\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Assets\", \"col\": 4}}, {\"id\": \"812fb9cc2a\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Asset Value\", \"col\": 4}}, {\"id\": \"f8f0df5c57\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"New Assets (This Year)\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "archive",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Assets",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Assets",
+  "module_onboarding": "Asset Onboarding",
+  "name": "Assets",
+  "number_cards": [
+   {
+    "label": "Total Assets",
+    "number_card_name": "Total Assets"
+   },
+   {
+    "label": "Asset Value",
+    "number_card_name": "Asset Value"
+   },
+   {
+    "label": "New Assets (This Year)",
+    "number_card_name": "New Assets (This Year)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 7.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Assets",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Issues Opened",
+    "label": "Issues Opened"
+   }
+  ],
+  "content": "[{\"id\": \"729b633ade\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Issues Opened\", \"col\": 12}}, {\"id\": \"160ec56bec\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Open Issues\", \"col\": 4}}, {\"id\": \"104a187e86\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Overdue Issues\", \"col\": 4}}, {\"id\": \"7f4c92f841\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Resolved Issues\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "headset",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Support",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Support",
+  "module_onboarding": null,
+  "name": "Support",
+  "number_cards": [
+   {
+    "label": "Open Issues",
+    "number_card_name": "Open Issues"
+   },
+   {
+    "label": "Overdue Issues",
+    "number_card_name": "Overdue Issues"
+   },
+   {
+    "label": "Resolved Issues",
+    "number_card_name": "Resolved Issues"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 12.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Support",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Quality Inspections",
+    "label": "Quality Inspections"
+   }
+  ],
+  "content": "[{\"id\": \"94a9c2ac37\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Quality Inspections\", \"col\": 12}}, {\"id\": \"e150b6a2e8\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Open Quality Actions\", \"col\": 4}}, {\"id\": \"c40c46970c\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Open Non Conformances\", \"col\": 4}}, {\"id\": \"5319691877\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Open Quality Reviews\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "shield-check",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Quality",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Quality Management",
+  "module_onboarding": null,
+  "name": "Quality",
+  "number_cards": [
+   {
+    "label": "Open Quality Actions",
+    "number_card_name": "Open Quality Actions"
+   },
+   {
+    "label": "Open Non Conformances",
+    "number_card_name": "Open Non Conformances"
+   },
+   {
+    "label": "Open Quality Reviews",
+    "number_card_name": "Open Quality Reviews"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 9.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Quality",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Top Customers",
+    "label": "Top Customers"
+   }
+  ],
+  "content": "[{\"id\": \"1c097e6187\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Top Customers\", \"col\": 12}}, {\"id\": \"719ae0d3bd\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Active Customers\", \"col\": 4}}, {\"id\": \"8058b27fbe\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Active Suppliers\", \"col\": 4}}, {\"id\": \"183d2da232\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Warehouses\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "sliders-horizontal",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "ERPNext Settings",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Setup",
+  "module_onboarding": null,
+  "name": "ERPNext Settings",
+  "number_cards": [
+   {
+    "label": "Active Customers",
+    "number_card_name": "Active Customers"
+   },
+   {
+    "label": "Active Suppliers",
+    "number_card_name": "Active Suppliers"
+   },
+   {
+    "label": "Total Warehouses",
+    "number_card_name": "Total Warehouses"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 19.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "ERPNext Settings",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Hiring vs Attrition Count",
+    "label": "Hiring vs Attrition Count"
+   }
+  ],
+  "content": "[{\"id\": \"e2b4d8ab1a\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Hiring vs Attrition Count\", \"col\": 12}}, {\"id\": \"ae8269534b\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"New Hires (This Year)\", \"col\": 4}}, {\"id\": \"88bb24db83\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Employee Exits (This Year)\", \"col\": 4}}, {\"id\": \"544bf99a8c\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Promotions (This Month)\", \"col\": 4}}, {\"id\": \"Do0km6oB3q\", \"type\": \"quick_list\", \"data\": {\"quick_list_name\": \"New Hires (This Month)\", \"col\": 4}}, {\"id\": \"90EyF0WfYs\", \"type\": \"quick_list\", \"data\": {\"quick_list_name\": \"Exits (This Month)\", \"col\": 4}}, {\"id\": \"lWsQRmsSwR\", \"type\": \"quick_list\", \"data\": {\"quick_list_name\": \"Trainings (This Week)\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "user",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Tenure",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Tenure",
+  "module_onboarding": null,
+  "name": "Tenure",
+  "number_cards": [
+   {
+    "label": "New Hires (This Year)",
+    "number_card_name": "New Hires (This Year)"
+   },
+   {
+    "label": "Employee Exits (This Year)",
+    "number_card_name": "Employee Exits (This Year)"
+   },
+   {
+    "label": "Promotions (This Month)",
+    "number_card_name": "Promotions (This Month)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [
+   {
+    "document_type": "Employee",
+    "label": "New Hires (This Month)",
+    "quick_list_filter": "{\"date_of_joining\":[\"Timespan\",\"this month\"]}"
+   },
+   {
+    "document_type": "Training Event",
+    "label": "Trainings (This Week)",
+    "quick_list_filter": "{\"start_time\":[\"Timespan\",\"this week\"]}"
+   },
+   {
+    "document_type": "Employee",
+    "label": "Exits (This Month)",
+    "quick_list_filter": "{\"relieving_date\":[\"Timespan\",\"this month\"]}"
+   }
+  ],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 2.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Tenure",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Leave Applications by Type",
+    "label": "Leave Applications by Type"
+   }
+  ],
+  "content": "[{\"id\": \"2c95e54b53\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Leave Applications by Type\", \"col\": 12}}, {\"id\": \"f219923446\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Number of Employees on Leave (Today)\", \"col\": 4}}, {\"id\": \"363b6269bd\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Number of Employees on Leave (This Month)\", \"col\": 4}}, {\"id\": \"d95373613c\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Holidays in this month\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "tree-palm",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Leaves",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Leaves",
+  "module_onboarding": null,
+  "name": "Leaves",
+  "number_cards": [
+   {
+    "label": "Number of Employees on Leave (Today)",
+    "number_card_name": "Number of Employees on Leave (Today)"
+   },
+   {
+    "label": "Number of Employees on Leave (This Month)",
+    "number_card_name": "Number of Employees on Leave (This Month)"
+   },
+   {
+    "label": "Holidays in this month",
+    "number_card_name": "Holidays in this month"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 5.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Leaves",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Appraisal Overview",
+    "label": "Appraisal Overview"
+   }
+  ],
+  "content": "[{\"id\": \"06c858b172\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Appraisal Overview\", \"col\": 12}}, {\"id\": \"6f97170772\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Ongoing Appraisal Cycles\", \"col\": 4}}, {\"id\": \"34c472e1e7\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Appraisals (This Year)\", \"col\": 4}}, {\"id\": \"11a238b76b\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Goals In Progress\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "star",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Performance",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Performance",
+  "module_onboarding": null,
+  "name": "Performance",
+  "number_cards": [
+   {
+    "label": "Ongoing Appraisal Cycles",
+    "number_card_name": "Ongoing Appraisal Cycles"
+   },
+   {
+    "label": "Appraisals (This Year)",
+    "number_card_name": "Appraisals (This Year)"
+   },
+   {
+    "label": "Goals In Progress",
+    "number_card_name": "Goals In Progress"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 7.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Performance",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Expense Claims",
+    "label": "Expense Claims"
+   }
+  ],
+  "content": "[{\"id\": \"8c0d6b00c5\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Expense Claims\", \"col\": 12}}, {\"id\": \"597a4953b8\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Expense Claims (This Month)\", \"col\": 4}}, {\"id\": \"a8821844c5\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Approved Claims (This Month)\", \"col\": 4}}, {\"id\": \"a96ef52e68\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Rejected Claims (This Month)\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 1,
+  "icon": "receipt-text",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Expenses",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Expenses",
+  "module_onboarding": null,
+  "name": "Expenses",
+  "number_cards": [
+   {
+    "label": "Expense Claims (This Month)",
+    "number_card_name": "Expense Claims (This Month)"
+   },
+   {
+    "label": "Approved Claims (This Month)",
+    "number_card_name": "Approved Claims (This Month)"
+   },
+   {
+    "label": "Rejected Claims (This Month)",
+    "number_card_name": "Rejected Claims (This Month)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 6.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Expenses",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Bank Balance",
+    "label": "Bank Balance"
+   }
+  ],
+  "content": "[{\"id\": \"8ad97059fb\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Bank Balance\", \"col\": 12}}, {\"id\": \"0290c3d3fb\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Incoming Payment\", \"col\": 4}}, {\"id\": \"4751e5b274\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Outgoing Payment\", \"col\": 4}}, {\"id\": \"4852db07c3\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Outgoing Bills\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "receipt-text",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Payments",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Accounts",
+  "module_onboarding": "Accounting Onboarding",
+  "name": "Payments",
+  "number_cards": [
+   {
+    "label": "Total Incoming Payment",
+    "number_card_name": "Total Incoming Payment"
+   },
+   {
+    "label": "Total Outgoing Payment",
+    "number_card_name": "Total Outgoing Payment"
+   },
+   {
+    "label": "Total Outgoing Bills",
+    "number_card_name": "Total Outgoing Bills"
+   }
+  ],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 3.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Payments",
+  "type": "Workspace"
+ },
+ {
+  "charts": [],
+  "content": "[]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "repeat",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Automation",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-06-11 11:51:22.898310",
+  "module": "Automation",
+  "module_onboarding": null,
+  "name": "Automation",
+  "number_cards": [],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 51.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Automation",
+  "type": "Workspace"
+ },
+ {
+  "charts": [],
+  "content": "[]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "printer",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Printing",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-08-03 00:00:00",
+  "module": "Printing",
+  "module_onboarding": null,
+  "name": "Printing",
+  "number_cards": [],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 53.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Printing",
+  "type": "Workspace"
+ },
+ {
+  "charts": [],
+  "content": "[]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "table",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Data",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-08-12 12:00:00",
+  "module": "Data",
+  "module_onboarding": null,
+  "name": "Data",
+  "number_cards": [],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 54.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Data",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Background Job Activity",
+    "label": "Background Job Activity"
+   },
+   {
+    "chart_name": "Notifications By Type",
+    "label": "Notifications By Type"
+   }
+  ],
+  "content": "[{\"id\": \"kQ2rY7nD4t\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Error Logs\", \"col\": 4}}, {\"id\": \"pV6mL0sJ8w\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Scheduled Jobs\", \"col\": 4}}, {\"id\": \"zR3xB5hK9q\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Failed Scheduled Jobs\", \"col\": 4}}, {\"id\": \"nF1cW4gT7y\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Background Job Activity\", \"col\": 12}}, {\"id\": \"aD8jP2vN6u\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Notifications By Type\", \"col\": 12}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "monitor-check",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "System",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-08-12 12:00:00",
+  "module": "System",
+  "module_onboarding": null,
+  "name": "System",
+  "number_cards": [
+   {
+    "label": "Error Logs",
+    "number_card_name": "Error Logs"
+   },
+   {
+    "label": "Scheduled Jobs",
+    "number_card_name": "Scheduled Jobs"
+   },
+   {
+    "label": "Failed Scheduled Jobs",
+    "number_card_name": "Failed Scheduled Jobs"
+   }
+  ],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 55.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "System",
+  "type": "Workspace"
+ },
+ {
+  "charts": [],
+  "content": "[]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "mail",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Email",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-06-11 11:51:24.107542",
+  "module": "Email",
+  "module_onboarding": null,
+  "name": "Email",
+  "number_cards": [],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 56.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Email",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Profit and Loss",
+    "label": "Profit and Loss"
+   }
+  ],
+  "content": "[{\"id\": \"a17de17773\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Profit and Loss\", \"col\": 12}}, {\"id\": \"9a0e234f25\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Outgoing Bills\", \"col\": 4}}, {\"id\": \"58b384d2dd\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Incoming Bills\", \"col\": 4}}, {\"id\": \"575d11919a\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Incoming Payment\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "landmark",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Accounting",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Accounts",
+  "module_onboarding": "Accounting Onboarding",
+  "name": "Accounting",
+  "number_cards": [
+   {
+    "label": "Total Outgoing Bills",
+    "number_card_name": "Total Outgoing Bills"
+   },
+   {
+    "label": "Total Incoming Bills",
+    "number_card_name": "Total Incoming Bills"
+   },
+   {
+    "label": "Total Incoming Payment",
+    "number_card_name": "Total Incoming Payment"
+   }
+  ],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 4.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Accounting",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Stock Value by Item Group",
+    "label": "Stock Value by Item Group"
+   }
+  ],
+  "content": "[{\"id\": \"0d4b2a0f05\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Stock Value by Item Group\", \"col\": 12}}, {\"id\": \"606b616c6c\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Stock Value\", \"col\": 4}}, {\"id\": \"e1c9621c31\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Warehouses\", \"col\": 4}}, {\"id\": \"ac7a22cfdd\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Active Items\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "package",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Stock",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Stock",
+  "module_onboarding": "Stock Onboarding",
+  "name": "Stock",
+  "number_cards": [
+   {
+    "label": "Total Stock Value",
+    "number_card_name": "Total Stock Value"
+   },
+   {
+    "label": "Total Warehouses",
+    "number_card_name": "Total Warehouses"
+   },
+   {
+    "label": "Total Active Items",
+    "number_card_name": "Total Active Items"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 7.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Stock",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Project Summary",
+    "label": "Project Summary"
+   }
+  ],
+  "content": "[{\"id\": \"7da431fdc9\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Project Summary\", \"col\": 12}}, {\"id\": \"e8d82ebeb8\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Open Projects\", \"col\": 4}}, {\"id\": \"69ce81d0bd\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Non Completed Tasks\", \"col\": 4}}, {\"id\": \"c7432e7d92\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Timesheet Working Hours\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "folder-kanban",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Projects",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Projects",
+  "module_onboarding": null,
+  "name": "Projects",
+  "number_cards": [
+   {
+    "label": "Open Projects",
+    "number_card_name": "Open Projects"
+   },
+   {
+    "label": "Non Completed Tasks",
+    "number_card_name": "Non Completed Tasks"
+   },
+   {
+    "label": "Timesheet Working Hours",
+    "number_card_name": "Timesheet Working Hours"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 11.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Projects",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Department Wise Employee Count",
+    "label": "Department Wise Employee Count"
+   }
+  ],
+  "content": "[{\"id\": \"6ff1e7c3de\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Department Wise Employee Count\", \"col\": 12}}, {\"id\": \"a81b2c6bd8\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Employees\", \"col\": 4}}, {\"id\": \"9ba6aa02f7\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Employees Joining (This Quarter)\", \"col\": 4}}, {\"id\": \"e1432ee93d\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Employees Relieving (This Quarter)\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "briefcase-business",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "HR Setup",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "HR Setup",
+  "module_onboarding": null,
+  "name": "HR Setup",
+  "number_cards": [
+   {
+    "label": "Total Employees",
+    "number_card_name": "Total Employees"
+   },
+   {
+    "label": "Employees Joining (This Quarter)",
+    "number_card_name": "Employees Joining (This Quarter)"
+   },
+   {
+    "label": "Employees Relieving (This Quarter)",
+    "number_card_name": "Employees Relieving (This Quarter)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 1.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "HR Setup",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Work Order Analysis",
+    "label": "Work Order Analysis"
+   }
+  ],
+  "content": "[{\"id\": \"13b8fcbb95\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Work Order Analysis\", \"col\": 12}}, {\"id\": \"5213f36c4a\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Open Work Orders\", \"col\": 4}}, {\"id\": \"95ca4e04c1\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"WIP Work Orders\", \"col\": 4}}, {\"id\": \"2dc98dbd6f\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Monthly Completed Work Order\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "building-2",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Manufacturing",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Manufacturing",
+  "module_onboarding": "Manufacturing Onboarding",
+  "name": "Manufacturing",
+  "number_cards": [
+   {
+    "label": "Open Work Orders",
+    "number_card_name": "Open Work Orders"
+   },
+   {
+    "label": "WIP Work Orders",
+    "number_card_name": "WIP Work Orders"
+   },
+   {
+    "label": "Monthly Completed Work Order",
+    "number_card_name": "Monthly Completed Work Order"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 8.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Manufacturing",
+  "type": "Workspace"
+ },
+ {
+  "charts": [],
+  "content": "[{\"id\": \"HXRmktXYHy\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"DocType\", \"col\": 3}}, {\"id\": \"NosD6wA0vD\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Module Def\", \"col\": 3}}, {\"id\": \"62hseENHbd\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"MmEJpjEdGR\", \"type\": \"card\", \"data\": {\"card_name\": \"Views\", \"col\": 4}}, {\"id\": \"2ZdtgxQZqq\", \"type\": \"card\", \"data\": {\"card_name\": \"Customization\", \"col\": 4}}, {\"id\": \"NPFolijIcb\", \"type\": \"card\", \"data\": {\"card_name\": \"Scripting\", \"col\": 4}}, {\"id\": \"BIHjudL0T_\", \"type\": \"card\", \"data\": {\"card_name\": \"Modules\", \"col\": 4}}, {\"id\": \"iK3JQ9RXJE\", \"type\": \"card\", \"data\": {\"card_name\": \"Packages\", \"col\": 4}}, {\"id\": \"TiO9FCUUeC\", \"type\": \"card\", \"data\": {\"card_name\": \"System Logs\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "hammer",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Build",
+  "link_to": null,
+  "link_type": null,
+  "links": [
+   {
+    "dependencies": null,
+    "description": "Customize properties, naming, fields and more for standard doctypes",
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Customization",
+    "link_count": 4,
+    "link_to": null,
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Customize Form",
+    "link_count": 0,
+    "link_to": "Customize Form",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "DocType Layout",
+    "link_count": 0,
+    "link_to": "DocType Layout",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Custom Field",
+    "link_count": 0,
+    "link_to": "Custom Field",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Custom Translation",
+    "link_count": 0,
+    "link_to": "Translation",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Navbar Settings",
+    "link_count": 0,
+    "link_to": "Navbar Settings",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": "Group your custom doctypes under modules",
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Modules",
+    "link_count": 2,
+    "link_to": null,
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Module Def",
+    "link_count": 0,
+    "link_to": "Module Def",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": "",
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Module Onboarding",
+    "link_count": 0,
+    "link_to": "Module Onboarding",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": "",
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": "Packages are lightweight apps (collection of Module Defs) that can be created, imported, or released right from the UI",
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Packages",
+    "link_count": 2,
+    "link_to": null,
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Package",
+    "link_count": 0,
+    "link_to": "Package",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Package Import",
+    "link_count": 0,
+    "link_to": "Package Import",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": "Automate processes and extend standard functionality using scripts and background jobs",
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Scripting",
+    "link_count": 3,
+    "link_to": null,
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Server Script",
+    "link_count": 0,
+    "link_to": "Server Script",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": "",
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Client Script",
+    "link_count": 0,
+    "link_to": "Client Script",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": "",
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Scheduled Job Type",
+    "link_count": 0,
+    "link_to": "Scheduled Job Type",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": "",
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": "Build your own reports, print formats, and dashboards. Create personalized workspaces for easier navigation",
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Views",
+    "link_count": 6,
+    "link_to": null,
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Report",
+    "link_count": 0,
+    "link_to": "Report",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": "",
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Dashboard",
+    "link_count": 0,
+    "link_to": "Dashboard",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": "",
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Print Format",
+    "link_count": 0,
+    "link_to": "Print Format",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": "",
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Page",
+    "link_count": 0,
+    "link_to": "Page",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Workspace",
+    "link_count": 0,
+    "link_to": "Workspace",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Dashboard Chart",
+    "link_count": 0,
+    "link_to": "Dashboard Chart",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": "Monitor logs for errors, background jobs, communications, and user activity",
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "System Logs",
+    "link_count": 6,
+    "link_to": null,
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Card Break"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Background Jobs",
+    "link_count": 0,
+    "link_to": "RQ Job",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Scheduled Jobs Logs",
+    "link_count": 0,
+    "link_to": "Scheduled Job Log",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Error Logs",
+    "link_count": 0,
+    "link_to": "Error Log",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Activity Log",
+    "link_count": 0,
+    "link_to": "Activity Log",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Communication Logs",
+    "link_count": 0,
+    "link_to": "Communication",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Webhook Request Log",
+    "link_count": 0,
+    "link_to": "Webhook Request Log",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   }
+  ],
+  "modified": "2026-08-12 12:00:00",
+  "module": "Build",
+  "module_onboarding": null,
+  "name": "Build",
+  "number_cards": [],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 1.0,
+  "shortcuts": [
+   {
+    "color": null,
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "DocType",
+    "link_to": "DocType",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": "[[\"DocType\",\"name\",\"like\",\"%Sales%\"],[\"DocType\",\"name\",\"like\",\"%Item%\"]]",
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Module Def",
+    "link_to": "Module Def",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": "[]",
+    "type": "DocType",
+    "url": null
+   }
+  ],
+  "standard": 1,
+  "title": "Build",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Benefit Claims",
+    "label": "Benefit Claims"
+   }
+  ],
+  "content": "[{\"id\": \"2f9f8fdd6e\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Benefit Claims\", \"col\": 12}}, {\"id\": \"eaf196592f\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Declaration Submitted\", \"col\": 4}}, {\"id\": \"191a303e61\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Benefit Claims (This Month)\", \"col\": 4}}, {\"id\": \"e168404207\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Tax Exemption Proofs (This Year)\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "coins",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Tax & Benefits",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Tax and Benefits",
+  "module_onboarding": null,
+  "name": "Tax & Benefits",
+  "number_cards": [
+   {
+    "label": "Total Declaration Submitted",
+    "number_card_name": "Total Declaration Submitted"
+   },
+   {
+    "label": "Benefit Claims (This Month)",
+    "number_card_name": "Benefit Claims (This Month)"
+   },
+   {
+    "label": "Tax Exemption Proofs (This Year)",
+    "number_card_name": "Tax Exemption Proofs (This Year)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 10.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Tax & Benefits",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Budget Variance",
+    "label": "Budget Variance"
+   }
+  ],
+  "content": "[{\"id\": \"12e194822e\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Budget Variance\", \"col\": 12}}, {\"id\": \"1e3181e0cb\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Outgoing Bills\", \"col\": 4}}, {\"id\": \"94f620327b\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Incoming Bills\", \"col\": 4}}, {\"id\": \"e3e5de6c45\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Outgoing Payment\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "sheet",
+  "indicator_color": "",
+  "is_hidden": 0,
+  "label": "Financial Reports",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Accounts",
+  "module_onboarding": "Accounting Onboarding",
+  "name": "Financial Reports",
+  "number_cards": [
+   {
+    "label": "Total Outgoing Bills",
+    "number_card_name": "Total Outgoing Bills"
+   },
+   {
+    "label": "Total Incoming Bills",
+    "number_card_name": "Total Incoming Bills"
+   },
+   {
+    "label": "Total Outgoing Payment",
+    "number_card_name": "Total Outgoing Payment"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 5.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Financial Reports",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Attendance Count",
+    "label": "Attendance Count"
+   }
+  ],
+  "content": "[{\"id\": \"0ccff9bd56\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Attendance Count\", \"col\": 12}}, {\"id\": \"e5f522d654\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Present (This Month)\", \"col\": 4}}, {\"id\": \"24fb69e488\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Absent (This Month)\", \"col\": 4}}, {\"id\": \"8706daeabd\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Late Entry (This Month)\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 1,
+  "icon": "milestone",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Shift & Attendance",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Shift and Attendance",
+  "module_onboarding": null,
+  "name": "Shift & Attendance",
+  "number_cards": [
+   {
+    "label": "Total Present (This Month)",
+    "number_card_name": "Total Present (This Month)"
+   },
+   {
+    "label": "Total Absent (This Month)",
+    "number_card_name": "Total Absent (This Month)"
+   },
+   {
+    "label": "Late Entry (This Month)",
+    "number_card_name": "Late Entry (This Month)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 4.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Shift & Attendance",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Outgoing Salary",
+    "label": "Outgoing Salary"
+   }
+  ],
+  "content": "[{\"id\": \"af117e0302\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Outgoing Salary\", \"col\": 12}}, {\"id\": \"d73e0b275e\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Outgoing Salary(Last month)\", \"col\": 4}}, {\"id\": \"c364478ce5\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Salary Structure\", \"col\": 4}}, {\"id\": \"c905329302\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Incentive Given(Last month)\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "wallet",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Payroll",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Payroll",
+  "module_onboarding": null,
+  "name": "Payroll",
+  "number_cards": [
+   {
+    "label": "Total Outgoing Salary(Last month)",
+    "number_card_name": "Total Outgoing Salary(Last month)"
+   },
+   {
+    "label": "Total Salary Structure",
+    "number_card_name": "Total Salary Structure"
+   },
+   {
+    "label": "Total Incentive Given(Last month)",
+    "number_card_name": "Total Incentive Given(Last month)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 9.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Payroll",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Outgoing Bills (Sales Invoice)",
+    "label": "Outgoing Bills (Sales Invoice)"
+   }
+  ],
+  "content": "[{\"id\": \"89faa04783\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Outgoing Bills (Sales Invoice)\", \"col\": 12}}, {\"id\": \"aa2a9ef0d3\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Outgoing Bills\", \"col\": 4}}, {\"id\": \"f24f8645d6\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Incoming Bills\", \"col\": 4}}, {\"id\": \"a2cd2dc7f7\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Outgoing Payment\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "wallet",
+  "indicator_color": "",
+  "is_hidden": 0,
+  "label": "Invoicing",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Accounts",
+  "module_onboarding": "Accounting Onboarding",
+  "name": "Invoicing",
+  "number_cards": [
+   {
+    "label": "Total Outgoing Bills",
+    "number_card_name": "Total Outgoing Bills"
+   },
+   {
+    "label": "Total Incoming Bills",
+    "number_card_name": "Total Incoming Bills"
+   },
+   {
+    "label": "Total Outgoing Payment",
+    "number_card_name": "Total Outgoing Payment"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 2.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Invoicing",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Webpage Views",
+    "label": "Website Visits"
+   }
+  ],
+  "content": "[{\"id\": \"6zVvGE_xaw\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Website Visits\", \"col\": 12}}, {\"id\": \"_cD8O3c7OX\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Published Web Pages\", \"col\": 4}}, {\"id\": \"7NNFjUlDOJ\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Published Web Forms\", \"col\": 4}}, {\"id\": \"VcwJUwrmU2\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Website Themes Available\", \"col\": 4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "app-window",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Website",
+  "link_to": null,
+  "link_type": null,
+  "links": [
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Website Settings",
+    "link_count": 0,
+    "link_to": "Website Settings",
+    "link_type": "DocType",
+    "onboard": 1,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Website Theme",
+    "link_count": 0,
+    "link_to": "Website Theme",
+    "link_type": "DocType",
+    "onboard": 1,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Website Script",
+    "link_count": 0,
+    "link_to": "Website Script",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "About Us Settings",
+    "link_count": 0,
+    "link_to": "About Us Settings",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Contact Us Settings",
+    "link_count": 0,
+    "link_to": "Contact Us Settings",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Help Category",
+    "link_count": 0,
+    "link_to": "Help Category",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   },
+   {
+    "dependencies": "",
+    "description": null,
+    "doctype_layout": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 0,
+    "label": "Help Article",
+    "link_count": 0,
+    "link_to": "Help Article",
+    "link_type": "DocType",
+    "onboard": 0,
+    "only_for": null,
+    "report_ref_doctype": null,
+    "type": "Link"
+   }
+  ],
+  "modified": "2026-07-03 11:51:23.165769",
+  "module": "Website",
+  "module_onboarding": null,
+  "name": "Website",
+  "number_cards": [
+   {
+    "label": "Published Web Pages",
+    "number_card_name": "Published Web Pages"
+   },
+   {
+    "label": "Published Web Forms",
+    "number_card_name": "Published Web Forms"
+   },
+   {
+    "label": "Website Themes Available",
+    "number_card_name": "Website Themes Available"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 14.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Website",
+  "type": "Workspace"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Job Applicant Pipeline",
+    "label": "Job Applicant Pipeline"
+   }
+  ],
+  "content": "[{\"id\": \"10b8fc0d08\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Job Applicant Pipeline\", \"col\": 12}}, {\"id\": \"ad9a1fba90\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Job Openings\", \"col\": 4}}, {\"id\": \"d110de1a04\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Total Applicants (This month)\", \"col\": 4}}, {\"id\": \"8a92851747\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Job Offers (This Month)\", \"col\": 4}}, {\"id\": \"B0A1wqOP8R\", \"type\": \"quick_list\", \"data\": {\"quick_list_name\": \"Interviews (This Week)\", \"col\": 6}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "users",
+  "indicator_color": null,
+  "is_hidden": 0,
+  "label": "Recruitment",
+  "link_to": null,
+  "link_type": null,
+  "links": [],
+  "modified": "2026-08-26 18:34:03",
+  "module": "Recruitment",
+  "module_onboarding": null,
+  "name": "Recruitment",
+  "number_cards": [
+   {
+    "label": "Job Openings",
+    "number_card_name": "Job Openings"
+   },
+   {
+    "label": "Total Applicants (This month)",
+    "number_card_name": "Total Applicants (This month)"
+   },
+   {
+    "label": "Job Offers (This Month)",
+    "number_card_name": "Job Offers (This Month)"
+   }
+  ],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [
+   {
+    "document_type": "Interview",
+    "label": "Interviews (This Week)",
+    "quick_list_filter": "{\"scheduled_on\":[\"Timespan\",\"this week\"],\"docstatus\":[\"!=\",\"2\"]}"
+   }
+  ],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 3.0,
+  "shortcuts": [],
+  "standard": 1,
+  "title": "Recruitment",
+  "type": "Workspace"
+ }
+]

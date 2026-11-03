@@ -1,0 +1,72 @@
+[
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Mode of Payment",
+  "enabled": 1,
+  "mode_of_payment": "Cheque",
+  "modified": "2026-09-03 16:33:42.027571",
+  "name": "Cheque",
+  "type": "Bank"
+ },
+ {
+  "accounts": [
+   {
+    "company": "Bon Voyage Limited",
+    "default_account": "1720 - 1720 Cash in Hand - BVL"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Mode of Payment",
+  "enabled": 1,
+  "mode_of_payment": "Cash",
+  "modified": "2026-10-07 15:45:35.593201",
+  "name": "Cash",
+  "type": "Cash"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Mode of Payment",
+  "enabled": 1,
+  "mode_of_payment": "Credit Card",
+  "modified": "2026-09-03 16:33:42.036127",
+  "name": "Credit Card",
+  "type": "Bank"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Mode of Payment",
+  "enabled": 1,
+  "mode_of_payment": "Wire Transfer",
+  "modified": "2026-09-03 16:33:42.039685",
+  "name": "Wire Transfer",
+  "type": "Bank"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Mode of Payment",
+  "enabled": 1,
+  "mode_of_payment": "Bank Draft",
+  "modified": "2026-09-03 16:33:42.041502",
+  "name": "Bank Draft",
+  "type": "Bank"
+ },
+ {
+  "accounts": [
+   {
+    "company": "Bon Voyage Limited",
+    "default_account": "1710 - 1710 M-PESA Buy Goods Tills - BVL"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Mode of Payment",
+  "enabled": 1,
+  "mode_of_payment": "M-PESA",
+  "modified": "2026-10-09 17:55:12.094509",
+  "name": "M-PESA",
+  "type": "Phone"
+ }
+]
